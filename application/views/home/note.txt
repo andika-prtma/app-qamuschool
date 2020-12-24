@@ -1,0 +1,11 @@
+Structure view
+
+
+
+Home:
+
+s-header
+c-header
+c-main
+c-footer
+s-footer

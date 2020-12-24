@@ -1,0 +1,1 @@
+[28-Jun-2020 14:45:05 UTC] PHP Fatal error:  Cannot redeclare Proses_model::getDataPeserta() in /home/qamw9457/public_html/application/models/Proses_model.php on line 25

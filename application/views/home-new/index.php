@@ -1,0 +1,13 @@
+<?php $this->load->view($html_header) ?>
+<?php $this->load->view($ctn_header) ?>
+<?php $this->load->view($hero) ?>
+<?php $this->load->view($welcome) ?>
+<?php $this->load->view($pengenalan) ?>
+<?php $this->load->view($ctn_program) ?>
+<?php $this->load->view($cta) ?>
+<?php //$this->load->view($ctn_price) ?>
+<?php $this->load->view($ctn_quotes) ?>
+<?php $this->load->view($ctn_faq) ?>
+<?php $this->load->view($ctn_kontak) ?>
+<?php $this->load->view($ctn_footer) ?>
+<?php $this->load->view($html_footer) ?>
